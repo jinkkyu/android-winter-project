@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+	<songlist>
+		<song sname="우주를줄께">
+			<title>우주</title>
+			<sname>볼빨간사춘기</sname>
+		</song>
+		<song sname="싫어요">
+			<title>싫어</title>
+			<sname>방탄소년단</sname>
+		</song>
+		<song sname="라이언하트">
+			<title>라이언</title>
+			<sname>소녀시대</sname>
+		</song>
+	</songlist>
+</rss>
